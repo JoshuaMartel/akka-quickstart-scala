@@ -25,7 +25,7 @@ jobs:
       with:
         args: >
           -Dsonar.organization=joshuamartel  
-          -Dsonar.projectKey=akka-quickstart.scala  
+          -Dsonar.projectKey=joshuamartel-akkaquickstart
           -Dsonar.sources=.   
           -Dsonar.host.url=https://sonarcloud.io
 
