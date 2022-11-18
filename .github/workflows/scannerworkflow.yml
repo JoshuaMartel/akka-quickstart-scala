@@ -13,6 +13,8 @@ jobs:
     with:
       organization: joshuamartel
       project_Key: akka-quickstart.scala
+    secrets:
+      sonar_token: 9ab7f675c956b4035b1cf508e6610118aae2699a
       
 
 
